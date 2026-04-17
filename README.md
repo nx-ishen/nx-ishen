@@ -47,7 +47,7 @@
 </td>
 <td width="50%">
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 - ✅ Master JavaScript fundamentals
 - 🔲 Build 5+ real-world projects
 - 🔲 Contribute to open source
